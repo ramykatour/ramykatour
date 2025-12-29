@@ -1,5 +1,14 @@
 # 💫 About Me:
-🌐 Web3 Developer | Smart Contract Maestro 🌐<br><br>👋 Hey, I'm Ramy Katour, a fervent advocate for the decentralized web (web3) and an aficionado of smart contract development. I'm on a mission to architect the future of trustless transactions and decentralized applications (dApps).<br><br>💻 My journey in blockchain technology is fueled by a passion for building resilient, transparent, and efficient systems. From designing intricate smart contracts to crafting seamless user experiences, I'm dedicated to pushing the boundaries of what's possible in the decentralized ecosystem.<br><br>🚀 As part of the web3 revolution, I'm committed to empowering individuals and businesses with the tools they need to thrive in a decentralized world. Whether it's DeFi protocols, NFT marketplaces, or DAO governance, I'm here to turn visionary ideas into tangible realities.<br><br>🔍 Let's collaborate on weaving the fabric of the decentralized future together!
+🌐 Web3 Developer | Smart Contract Engineer 🌐<br><br>
+
+👋 Hello, I’m Ramy Katour, a Web3 developer specializing in the design, development, and review of smart contracts and decentralized systems. My focus is on delivering secure, scalable, and maintainable blockchain solutions aligned with industry best practices.<br><br>
+
+💻 I work across the full lifecycle of decentralized application development, from smart contract architecture and on-chain logic to system optimization and reliability. I prioritize security, efficiency, and clarity in every implementation, with a strong emphasis on risk mitigation and long-term sustainability.<br><br>
+
+🚀 Actively engaged in the Web3 ecosystem, I contribute to building trust-minimized infrastructures that support decentralized finance, digital assets, and governance frameworks. My goal is to translate complex requirements into robust, production-ready blockchain systems.<br><br>
+
+🔍 Open to professional collaboration on high-impact Web3 and blockchain initiatives.
+
 
 
 ## 🌐 Socials:
